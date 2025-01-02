@@ -5,7 +5,7 @@
 ## 🚀 Live Preview
 [Check out the live site here!](https://adityaaerpule.netlify.app)
 
-Welcome to my portfolio website! This is a single-page web application showcasing my skills, projects, and experience. Below, you will find a detailed breakdown of each section along with instructions to add snapshots.
+Welcome to my portfolio website! This is a single-page web application showcasing my skills, projects, and experience. Below, you will find a detailed breakdown of each section along with snapshots.
 
 ## Table of Contents
 
@@ -26,8 +26,6 @@ The **Hero Section** is the first thing users see when they land on the site. It
 
 ![Hero Section Snapshot](./images/snapshots/hero.png)
 
-> **Instructions:** Add a screenshot of the Hero Section here. Capture the full background, heading, and social media icons.
-
 ---
 
 ## About Me
@@ -35,8 +33,6 @@ The **Hero Section** is the first thing users see when they land on the site. It
 The **About Me Section** provides a brief overview of who I am. It includes a short biography, my professional background, and a little bit about my personal interests. This section is where I talk about my journey from being a software developer to a fitness trainer, highlighting the balance between my passion for coding and my love for fitness.
 
 ![About Me Snapshot](./images/snapshots/about.png)
-
-> **Instructions:** Add a snapshot of the About Me section showing the heading, bio, and any accompanying image or avatar.
 
 ---
 
@@ -52,8 +48,6 @@ This section is usually represented with skill icons or progress bars indicating
 
 ![Skills Section Snapshot](./images/snapshots/skills.png)
 
-> **Instructions:** Add a screenshot of the Skills Section. Make sure to capture the icons or skill bars for each technology stack.
-
 ---
 
 ## Education
@@ -66,8 +60,6 @@ For example:
 - **B.Sc. in Computer Science**
 
 ![Education Section Snapshot](./images/snapshots/education.png)
-
-> **Instructions:** Add a snapshot of the Education Section with all degrees and certifications clearly displayed.
 
 ---
 
@@ -85,8 +77,6 @@ For example:
   - Worked with RESTful APIs and MongoDB.
 
 ![Experience Section Snapshot](./images/snapshots/experiences.png)
-
-> **Instructions:** Add a snapshot of the Experience Section that shows job titles, companies, and summaries of work done.
 
 ---
 
