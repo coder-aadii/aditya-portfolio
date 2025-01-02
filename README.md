@@ -2,6 +2,9 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/coder-aadii?label=Follow&style=social)](https://github.com/coder-aadii)
 
+## 🚀 Live Preview
+[Check out the live site here!](https://adityaaerpule.netlify.app)
+
 Welcome to my portfolio website! This is a single-page web application showcasing my skills, projects, and experience. Below, you will find a detailed breakdown of each section along with instructions to add snapshots.
 
 ## Table of Contents
@@ -81,7 +84,7 @@ For example:
   - Built responsive web pages.
   - Worked with RESTful APIs and MongoDB.
 
-![Experience Section Snapshot](./images/snapshots/experience.png)
+![Experience Section Snapshot](./images/snapshots/experiences.png)
 
 > **Instructions:** Add a snapshot of the Experience Section that shows job titles, companies, and summaries of work done.
 
@@ -99,13 +102,11 @@ For example:
 
 | Project Name | Description | Technologies | Live Demo / Code |
 | ------------ | ----------- | ------------ | ---------------- |
-| **Ping - Android Messaging App** | A real-time chat app with Firebase integration. | Android, Firebase | [View Code](https://github.com/Aditya-Aerpule/Ping-App) |
+| **Ping - Android Messaging App** | A real-time chat app with Firebase integration. | Android, Firebase | [View Code](https://github.com/coder-aadii/Ping-MessagingApp-Android) |
 | **EleBill - Electricity Billing System** | A CRUD app for managing electricity billing. | MongoDB, HTML, CSS, JS | [Live Demo](https://ele-bill.netlify.app/) |
-| **FFZ Clients Manager** | A Java Swing app to manage clients at Fly Fitness Zone. | Java Swing | [View Code](https://github.com/Aditya-Aerpule/FFZ-Clients-Manager) |
+| **FFZ Clients Manager** | A Java Swing app to manage clients at Fly Fitness Zone. | Java Swing | [View Code](https://github.com/coder-aadii/FFZ-ClientsManager-JavaSwing) |
 
 ![Projects Section Snapshot](./images/snapshots/projects.png)
-
-> **Instructions:** Add a snapshot showing a few project cards with links to demos and GitHub repositories.
 
 ---
 
@@ -114,8 +115,6 @@ For example:
 In the **Contact Me Section**, users can reach out to me via a contact form or email. The section includes fields for name, email, and message, and offers alternative ways to connect (LinkedIn, GitHub, Instagram).
 
 ![Contact Me Section Snapshot](./images/snapshots/contactme.png)
-
-> **Instructions:** Add a snapshot of the Contact Me section. Be sure to capture the form layout and social media icons.
 
 ---
 
@@ -134,14 +133,21 @@ To set up this project locally, follow these steps:
 
 3. Open index.html in your browser to view the portfolio.
 
-## License
-This project is open-source and available under the MIT License.
+---
 
-Feel free to fork and contribute to the project!
+## 🔧 Technologies Used
+- **HTML**: Structured the content of the website.
+- **CSS**: Designed responsive layouts, animations, and custom styling.
+- **JavaScript**: Added dynamic functionality and interactivity across the portfolio.
+- **CDN JS Libraries**: Utilized external JavaScript libraries like **jQuery**, **particles.js**, **FontAwesome**, and **Typed.js** for enhanced features such as icon integration, smooth scrolling, and typing animations. 
+- **Git & GitHub**: Managed version control and project deployment.
 
-### Instructions to Add Snapshots
-- Replace `./images/snapshots/hero.png`, `./images/snapshots/about.png`, etc., with actual file paths for the images in your repository. 
-- Ensure you have the respective folders (e.g., `/images/snapshots/`) containing the snapshots for each section. 
+---
 
-You can update the links for the live demos or project repositories to match your actual URLs.
+## 📞 Contact
+- **Email**: [adityaaerpule@gmail.com](mailto:adityaaerpule@gmail.com)
+- **LinkedIn**: [Aditya Aerpule](https://www.linkedin.com/in/aditya-aerpule-a22062309/)
+- **Instagram**: [@cod3r.aadi](https://www.instagram.com/cod3r.aadi)
+- **GitHub**: [@coder-aadii](https://github.com/coder-aadii)
 
+Feel free to reach out for collaboration or queries!
