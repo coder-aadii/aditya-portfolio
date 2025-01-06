@@ -191,6 +191,18 @@ document.onkeydown = function (e) {
     }
 }
 
+document.getElementById('contact-form').addEventListener('submit', function(event) {
+    event.preventDefault(); // Prevent the default form submission
+
+    emailjs.sendForm('service_9v9zizn', 'template_z39nc3x', this)
+    .then(function() {
+        alert('Message sent successfully!');
+        document.getElementById('contact-form').reset(); // Reset the form after submission
+    }, function(error) {
+        alert('Failed to send message: ' + error.text);
+    });
+});
+
 // Start of Tawk.to Live Chat
 // var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
 // (function () {
@@ -240,7 +252,7 @@ srtop.reveal('.skills .container .bar', { delay: 400 });
 srtop.reveal('.education .box', { interval: 200 });
 
 /* SCROLL PROJECTS */
-srtop.reveal('.work .box', { interval: 200 });
+srtop.reveal('.projects .box', { interval: 200 });
 
 /* SCROLL EXPERIENCE */
 srtop.reveal('.experience .timeline', { delay: 400 });
@@ -249,3 +261,4 @@ srtop.reveal('.experience .timeline .container', { interval: 400 });
 /* SCROLL CONTACT */
 srtop.reveal('.contact .container', { delay: 400 });
 srtop.reveal('.contact .container .form-group', { delay: 400 });
+
