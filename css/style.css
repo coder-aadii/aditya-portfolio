@@ -714,6 +714,44 @@ header .navbar ul li a:hover {
   font-weight: 700;
 }
 
+/* Styling the visit button container */
+.visitBtn {
+  text-align: center;
+  margin: 20px 0;
+}
+
+/* Styling the link itself */
+.visitBtn a {
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+  padding: 10px 20px;
+  background-color: navy; /* Navy blue background */
+  color: white; /* White text color */
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: bold;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+/* Hover effect */
+.visitBtn a:hover {
+  background-color: #1e3a5f; /* Darker navy blue on hover */
+  transform: translateX(5px); /* Slightly move to the right on hover */
+}
+
+/* Adding an icon next to the text */
+.visitBtn a i {
+  margin-left: 10px;
+  font-size: 18px;
+  transition: transform 0.3s ease;
+}
+
+/* Hover effect on icon */
+.visitBtn a:hover i {
+  transform: translateX(5px); /* Move the icon with the text */
+}
+
 /* education media queries starts*/
 @media screen and (max-width: 600px) {
   .education .box-container .box {
