@@ -19,7 +19,7 @@ html {
 }
 
 body {
-  background: linear-gradient(to right, #cdcafd, #5a51ff, #c4c4c4);
+  background: linear-gradient(to right, #cdcafd, #a1ffb9, #c4c4c4);
   font-family: "Poppins", sans-serif;
 }
 
@@ -821,6 +821,7 @@ header .navbar ul li a:hover {
   position: relative;
   text-align: left;
   padding: 1.5rem;
+  height: 300px;
 }
 
 .projects .box img {

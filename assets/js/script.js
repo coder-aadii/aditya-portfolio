@@ -140,8 +140,8 @@ function showProjects(projects) {
     /* ===== SCROLL REVEAL ANIMATION ===== */
     const sr = ScrollReveal({
         origin: 'top',
-        distance: '80px',
-        duration: 1000,
+        distance: '50px',
+        duration: 500,
         reset: true
     });
 
